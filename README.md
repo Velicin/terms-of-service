@@ -20,7 +20,7 @@ You are strictly prohibited to use BallsDex against the ToS of Discord or for il
 
 The code of empiredex is open source and available at https://github.com/Velicin/Empiredex It is using the MIT licence which should be respected when using the bot. Most notably, it comes without warranty and liability. A copy of the licence can be found below.
 
-**The instance is guaranteed to be running an exact copy of the code made open source.** The version may not be the latest available (check `/about`), but no local changes will be made. This may change, but users should be notified in the [Discord server](https://discord.gg/HmSMT4WKKV) about such change.
+**The instance is guaranteed to be running an exact copy of the code made open source.** The version may not be the latest available (check `/about`), but no local changes will be made. This may change, but users should be notified in the [Discord server](https://discord.gg/PnvtBfkZdm)) about such change.
 
 <details>
   <summary>The MIT licence</summary>
