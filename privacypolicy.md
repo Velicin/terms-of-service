@@ -1,4 +1,4 @@
-# BallsDex Discord Bot - Privacy policy
+# Empiredex discord bot - Privacy policy
 
 The following document explains what data is collected by BallsDex.
 
