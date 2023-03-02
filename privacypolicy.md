@@ -1,6 +1,6 @@
 # Empiredex discord bot - Privacy policy
 
-The following document explains what data is collected by BallsDex.
+The following document explains what data is collected by Empiredex.
 
 ### Glossary
 
@@ -9,7 +9,7 @@ The following document explains what data is collected by BallsDex.
 - "Bot" or "instance" refers to the copy of the code running the Discord application, with its own data
 - "Collectible" refers to any object that is meant to be collected, such as countryballs or other future means like virtual currency
 - "Application owners" refers to the owners of the Discord application, meaning the one with any form of access to the application's authentication method and data belonging to the instance
-- "BallsDex moderation team" or "moderation team" refers to the owners of the Discord application and the users they may chose to be part of the moderation team. You may find a list of these users on the [Discord server](https://discord.gg/HmSMT4WKKV).
+- "BallsDex moderation team" or "moderation team" refers to the owners of the Discord application and the users they may chose to be part of the moderation team. You may find a list of these users on the [Discord server](https://discord.gg/PnvtBfkZdm).
 
 ## Open source
 
